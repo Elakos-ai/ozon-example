@@ -7,12 +7,22 @@
   <link rel="stylesheet" href="../style/style.css">
 </head>
 <body>
-  <header>
-    <h1>My Shop</h1>
-    <div class="cart">
-      🛒 Cart: <span id="cart-count">0</span>
-    </div>
-  </header>
+<header>
+  <h1>My Shop</h1>
+  <div>
+    <label for="category-filter">Filter by category:</label>
+    <select id="category-filter">
+      <option value="all">All</option>
+      <option value="electronics">Electronics</option>
+      <option value="clothes">Clothes</option>
+      <option value="books">Books</option>
+    </select>
+  </div>
+  <div class="cart">
+    🛒 Cart: <span id="cart-count">0</span>
+  </div>
+</header>
+
 
   <main>
     <div id="products" class="products"></div>
