@@ -1,0 +1,22 @@
+[
+  { "id": 1, "title": "Смартфон Galaxy A55", "price": 35000, "category": "electronics", "image": "../img/phone.jpg", "description": "Современный смартфон Samsung с AMOLED дисплеем, 128GB памяти и отличной камерой." },
+  { "id": 2, "title": "Ноутбук Acer Aspire", "price": 55000, "category": "electronics", "image": "../img/laptop.png", "description": "Мощный ноутбук для работы и учебы с процессором Intel i5 и 8GB RAM." },
+  { "id": 3, "title": "Наушники Sony WH-1000XM5", "price": 28000, "category": "electronics", "image": "../img/headphones.jpg", "description": "Беспроводные наушники с активным шумоподавлением и до 30 часов автономной работы." },
+  { "id": 4, "title": "Футболка мужская Nike", "price": 2500, "category": "clothes", "image": "../img/tshirt.webp", "description": "Комфортная хлопковая футболка для повседневной носки и спорта." },
+  { "id": 5, "title": "Кроссовки Adidas", "price": 7000, "category": "clothes", "image": "../img/sneakers.jpg", "description": "Легкие кроссовки для спорта и прогулок с дышащей тканью." },
+  { "id": 6, "title": "Куртка зимняя Puma", "price": 12000, "category": "clothes", "image": "../img/jacket.jpg", "description": "Утепленная зимняя куртка с водоотталкивающей пропиткой и капюшоном." },
+  { "id": 7, "title": "Роман «1984»", "price": 500, "category": "books", "image": "../img/book1.jpg", "description": "Классический роман Джорджа Оруэлла о тоталитарном обществе." },
+  { "id": 8, "title": "Книга «Clean Code»", "price": 1500, "category": "books", "image": "../img/book2.jpg", "description": "Руководство по написанию чистого и поддерживаемого кода от Роберта Мартина." },
+  { "id": 9, "title": "Учебник по JavaScript", "price": 2000, "category": "books", "image": "../img/book3.jpg", "description": "Полное руководство по изучению JavaScript для начинающих и опытных разработчиков." },
+  { "id": 10, "title": "Смарт-часы Apple Watch", "price": 45000, "category": "electronics", "image": "../img/applewatch.jpg", "description": "Смарт-часы Apple с функцией фитнес-трекинга, уведомлениями и GPS." },
+  { "id": 11, "title": "Клавиатура Logitech", "price": 4000, "category": "electronics", "image": "../img/keyboard.jpg", "description": "Удобная клавиатура с тихими клавишами и подсветкой." },
+  { "id": 12, "title": "Мышь Razer DeathAdder", "price": 3500, "category": "electronics", "image": "../img/mouse.jpg", "description": "Игровая мышь с высокой точностью сенсора и эргономичным дизайном." },
+  { "id": 13, "title": "Толстовка с капюшоном", "price": 3500, "category": "clothes", "image": "../img/hoodie.jpg", "description": "Удобная толстовка для повседневной носки с мягкой внутренней подкладкой." },
+  { "id": 14, "title": "Джинсы Levi’s", "price": 6000, "category": "clothes", "image": "../img/jeans.jpg", "description": "Классические джинсы Levi’s с прямым кроем и высокой износостойкостью." },
+  { "id": 15, "title": "Платье женское Zara", "price": 8000, "category": "clothes", "image": "../img/dress.jpg", "description": "Элегантное платье для офиса и вечерних мероприятий." },
+  { "id": 16, "title": "Книга «Мастер и Маргарита»", "price": 700, "category": "books", "image": "../img/book4.jpg", "description": "Знаменитый роман Михаила Булгакова с мистическим сюжетом." },
+  { "id": 17, "title": "Книга «Война и мир»", "price": 1000, "category": "books", "image": "../img/book5.jpg", "description": "Эпический роман Льва Толстого о судьбах нескольких семей на фоне войны 1812 года." },
+  { "id": 18, "title": "Пылесос Xiaomi", "price": 15000, "category": "electronics", "image": "../img/vacuum.jpg", "description": "Мощный робот-пылесос с управлением через приложение и функцией влажной уборки." },
+  { "id": 19, "title": "Телевизор Samsung 55\"", "price": 60000, "category": "electronics", "image": "../img/tv.jpg", "description": "LED телевизор с разрешением 4K, HDR и Smart TV функциями." },
+  { "id": 20, "title": "Игровая приставка PlayStation 5", "price": 70000, "category": "electronics", "image": "../img/ps5.jpg", "description": "Современная игровая консоль с поддержкой 4K, быстрым SSD и эксклюзивными играми." }
+]
